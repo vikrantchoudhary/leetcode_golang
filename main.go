@@ -2,12 +2,18 @@ package main
 
 import (
 	"fmt"
-	"github.com/vikrantchoudhary/leetcode_golang/leetcode/Node"
+
+	leetcode "leetcode_golang/leetcode"
 )
 
 func main() {
 	fmt.Println("main function")
-	Node.PrintTest()
-}
+	//leetcode.RemoveDuplicateTest()
 
-main.go:5:2: package  is not in std (/usr/local/Cellar/go/1.22.3/libexec/src)
+	fmt.Println()
+	leetcode.TwoListSumTest()
+	//exp.SingleThreadedPrint()
+	//fmt.Println()
+	//exp.MutiThreadePrint()
+
+}
