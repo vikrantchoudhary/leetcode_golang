@@ -11,7 +11,9 @@ func main() {
 	//leetcode.RemoveDuplicateTest()
 
 	fmt.Println()
-	leetcode.TwoListSumTest()
+	//leetcode.TwoListSumTest()
+	//leetcode.VersionTest()
+	leetcode.JudgeCircle()
 	//exp.SingleThreadedPrint()
 	//fmt.Println()
 	//exp.MutiThreadePrint()
