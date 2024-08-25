@@ -11,9 +11,10 @@ func main() {
 	//leetcode.RemoveDuplicateTest()
 
 	fmt.Println()
+	leetcode.IsPowerOfTwoTest()
 	//leetcode.TwoListSumTest()
 	//leetcode.VersionTest()
-	leetcode.JudgeCircle()
+	//leetcode.SquareArray([]int{-4, -1, 0, 3, 10})
 	//exp.SingleThreadedPrint()
 	//fmt.Println()
 	//exp.MutiThreadePrint()
