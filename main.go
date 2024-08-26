@@ -11,7 +11,7 @@ func main() {
 	//leetcode.RemoveDuplicateTest()
 
 	fmt.Println()
-	leetcode.IsPowerOfTwoTest()
+	leetcode.NumsOfIsland()
 	//leetcode.TwoListSumTest()
 	//leetcode.VersionTest()
 	//leetcode.SquareArray([]int{-4, -1, 0, 3, 10})
